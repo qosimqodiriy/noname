@@ -154,6 +154,7 @@ function submit() {
     box-sizing: border-box;
     display: flex;
     flex: 1 1 auto;
+    max-width: 540px;
 }
 
 .line {
