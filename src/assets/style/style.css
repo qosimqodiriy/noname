@@ -1,0 +1,12 @@
+* {
+    line-height: normal;
+}
+
+body {
+    scroll-behavior: smooth;
+}
+
+.my_container {
+    margin: 0 auto;
+    max-width: 80%;
+}

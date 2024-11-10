@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+@font-face {
+    font-family: 'korb';
+    src: url('../fonts/Korb.ttf') format('truetype');
+}
+
+@font-face {
+    font-weight: 400;
+    font-family: 'Blogger_Sans';
+    src: url('../fonts/Blogger_Sans.otf') format('opentype');
+}
+
+@font-face {
+    font-weight: 500;
+    font-family: 'Blogger_Sans_500';
+    src: url('../fonts/Blogger_Sans_500.otf') format('opentype');
+}
