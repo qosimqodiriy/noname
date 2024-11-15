@@ -34,10 +34,8 @@ function print() {
                     <div class="text_box">
                         <p class="bg_title">2 Consignee</p>
                         <p class="absender">
-                            LLC “MTE TECHNIK”, <br>
-                            Tashkent district Choshtepa, Turzor MFY, <br>
-                            st. Olkish, house-20, Tashkent region <br>
-                            Uzbekistan
+                            KSM <br>
+                            Alexander Kutukov
                         </p>
                     </div>
     

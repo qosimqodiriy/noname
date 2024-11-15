@@ -13,12 +13,12 @@
             </div>
             
             <div class="img_box">
-                <a href="http://www.ihk.de/" class="shrink-0">
+                <p class="inline-block shrink-0">
                     <img class="shrink-0 w-auto" src="../../assets/images/IHK.jpg" alt="">
-                </a>
-                <a href="http://www.dihk.de/" class="shrink-0">
+                </p>
+                <p class="inline-block shrink-0">
                     <img class="shrink-0 w-auto" src="../../assets/images/DIHK.png" alt="">
-                </a>
+                </p>
             </div>
         </div>
     </div>
@@ -54,11 +54,11 @@
     flex: 1 1 100%;
     max-width: 20%;
 }
-.img_box a {
+.img_box p {
     margin-bottom: 4.5px;
 }
 
-.img_box a img {
+.img_box p img {
     width: auto;
     padding-right: 20px;
     height: calc(40px + 1vw);

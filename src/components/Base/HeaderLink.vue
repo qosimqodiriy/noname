@@ -1,8 +1,8 @@
 <template>
     <div class="header_link flex items-start justify-end">
-        <router-link to="/license" class="link">LICENSE NOTES</router-link>
-        <a href="https://euz.ihk.de/datenschutzerklaerung-4084442" class="link">PRIVACY POLICY</a>
-        <a href="https://euz.ihk.de/impressum-4084438" class="link">LEGAL NOTICE</a>
+        <p class="link">LICENSE NOTES</p>
+        <p class="link">PRIVACY POLICY</p>
+        <p class="link">LEGAL NOTICE</p>
     </div>
 </template>
 
